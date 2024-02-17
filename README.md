@@ -6,8 +6,6 @@
 
 # *SPECTROID*: A Centroid-Based Citation-Aware Approach to Paper Classification
 
-> **NOTE**: Similarly to the [original repo](https://github.com/allenai/specter), this repo does not support Windows.
-
 ## Introduction and Novelties
 This repo presents two extensions to the work presented in [*SPECTER: Document-level Representation Learning using Citation-informed Transformers*](https://arxiv.org/abs/2004.07180). 
 
